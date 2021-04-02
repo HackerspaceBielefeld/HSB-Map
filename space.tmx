@@ -1514,7 +1514,7 @@
  </layer>
  <layer id="54" name="doenerLayer" width="46" height="37" opacity="0">
   <properties>
-   <property name="openWebsite" value="https://www.doener-hawaii.de"/>
+   <property name="openWebsite" value="https://doener-hawaii.de"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
