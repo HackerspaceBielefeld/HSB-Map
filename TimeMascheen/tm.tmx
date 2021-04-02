@@ -838,7 +838,7 @@
 </data>
  </layer>
  <objectgroup id="17" name="floorLayer"/>
- <layer id="26" name="audioLayer" width="51" height="69">
+ <layer id="26" name="audioLayer" width="51" height="69" opacity="0">
   <properties>
    <property name="playAudio" value="https://live.dort.c3voc.de/divocr2r_native.mp3"/>
   </properties>
