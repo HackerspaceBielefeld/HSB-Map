@@ -1383,7 +1383,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="37" name="discoLayer" width="46" height="37" opacity="0.59">
+ <layer id="37" name="discoLayer" width="46" height="37" opacity="0">
   <properties>
    <property name="playAudio" value="https://live.dort.c3voc.de/divocr2r_native.mp3"/>
   </properties>

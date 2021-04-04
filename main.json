@@ -386,7 +386,7 @@
          "height":37,
          "id":37,
          "name":"discoLayer",
-         "opacity":0.59,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
