@@ -450,7 +450,7 @@
  </layer>
  <layer id="19" name="exitLayer" width="51" height="69">
   <properties>
-   <property name="exitURL" value="world://lobby/pcb.json#start_spacebi"/>
+   <property name="exitUrl" value="world://lobby/pcb.json#start_spacebi"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
