@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="spaceselection" tilewidth="32" tileheight="32" tilecount="672" columns="28">
+<tileset version="1.5" tiledversion="1.7.2" name="spaceselection" tilewidth="32" tileheight="32" tilecount="672" columns="28">
+ <properties>
+  <property name="tilesetCopyright" value="CC-BY-NC-SA 4.0"/>
+ </properties>
  <image source="spaceselection.png" width="896" height="768"/>
  <tile id="131">
   <animation>
